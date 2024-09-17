@@ -24,12 +24,4 @@ We picked the Spotify API because of its extensive library of music information 
 3- Run All Cells on the Notebook.
 4- The last cell will ask you to input a US state, input the State, and the playlist will be displayed.
 
-# API Keys & Secrets:
-
-Make sure to put these in the secretes section of the collab notebook 
-
-Name: SPOTIFY_CLIENT_ID  Value: d365b0c0cd67473cbeabd05547a0805c
-Name: SPOTIFY_CLIENT_SECRET Value: bd7d3293b5564228beaf92c2d3f47d32
-Name: WEATHER_API_KEY Value: LDZST5GCA7SXyaQ1kZNmGTJUEO8MMPGd
-
 
